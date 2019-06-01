@@ -1,1 +1,1 @@
-# EE577A-VLSI-System-Design
+# VLSI-System-Design
